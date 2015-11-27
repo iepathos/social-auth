@@ -1,6 +1,6 @@
 # beego social auth
 
-Connetction social accounts for beego.
+Authenticate using social accounts with beego.
 
 ### Support Platform
 
